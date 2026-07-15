@@ -1,0 +1,11 @@
+{
+  "mappings": [
+    "/content/temasek-demo/:/",
+    "/content/temasek-demo:/.helix/config.json",
+    "/content/temasek-demo/metadata:/metadata.json"
+  ],
+  "includes": [
+    "/content/temasek-demo/"
+    "/content/dam/
+  ]
+}
